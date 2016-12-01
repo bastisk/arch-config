@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-scale '/home/basti/IMG_3527.JPG' 
